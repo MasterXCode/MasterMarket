@@ -1,0 +1,16 @@
+-----------
+First :
+-----------
+pkg update && pkg upgrade 
+
+pkg install git toilet figlet -y
+
+bash Needs.sh 
+
+------------
+Second : 
+-----------
+python MasterMarket.py 
+
+
+Done...! 
