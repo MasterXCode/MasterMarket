@@ -14,7 +14,7 @@ echo ""
 echo " Installing Requirements "
 echo ""
 echo "%%%%%%%%%%%%%%%%%%"
-pkg install python toilet git ruby -y
+pkg install figlet python toilet git ruby -y
 echo "" 
 echo "&&&&&&&&&&&&&&&&&&&&&&&"
 echo ""
