@@ -53,12 +53,12 @@ def so () :
          print ("Creator : MASTERX ")
          print ("Channel Youtube : MASTER X ")
          print ("Script Version : 1.1 ")
-         print ("My Github Repo : https://github.com/seifsherifssss")
+         print ("My Github Repo : https://github.com/MasterXCode")
     else :
       loop3 = input ("Are You Sure y/n >>>   ")
       if loop3 == 'y' :
           import os 
-          os.system (" clear && toilet -f big 'UPDATING' | lolcat && cd /$HOME && rm -rif MasterMarket &&git clone https://github.com/seifsherifssss/MasterMarket ")
+          os.system (" clear && toilet -f big 'UPDATING' | lolcat && cd /$HOME && rm -rif MasterMarket &&git clone https://github.com/MasterXCode ")
       if loop3 == 'n' :
          import os
          os.system("clear")
