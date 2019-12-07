@@ -95,7 +95,7 @@ def so () :
        os.system ("clear && toilet -f big 'OSIF' | lolcat && cd /$HOME && git clone https://github.com/ciku370/OSIF")
     if loop2 == '10' :
        import os 
-       os.system (" clear && toilet -f big 'BeeF' | lolcat && cd /$HOME && git clone https://github.com/seifsherifssss/BeeF && cd BeeF && bash beef.sh && bash FixBigdecimal.sh ")
+       os.system (" clear && toilet -f big 'BeeF' | lolcat && cd /$HOME && git clone https://github.com/MasterXCode/BeeF && cd BeeF && bash beef.sh && bash FixBigdecimal.sh ")
     if loop2 == '11' :
       import os
       os.system("clear && toilet -f big 'Tool-X' | lolcat && cd /$HOME && git clone https://github.com/eroz78/toolx ")
